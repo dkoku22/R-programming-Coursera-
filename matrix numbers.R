@@ -1,2 +1,2 @@
-m <- matrix(1:6, nrow = 2, ncol = 3)
+m <- matrix(1:9, nrow = 3, ncol = 3)
 m
